@@ -1,3 +1,5 @@
-Evidence volume is not evidence balance.
+Verdict: Defer.
 
-Omega topology keeps confidence layer-scoped. Mechanistic clarity can accumulate locally while global readiness remains gated until genetic reinforcement and clinical maturity align.
+Confidence is layer‑scoped. Mechanistic support (75) can be strong while genetic (45) and clinical (25) remain insufficient. Support accumulated locally does not automatically propagate across the stack.
+
+Close the gates before transfer: tighten genetic relevance and design clinical tests that converge on endpoints tied to the mechanism. Until then, treat propagation as unearned.
