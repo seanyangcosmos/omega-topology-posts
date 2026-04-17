@@ -128,7 +128,7 @@ Mechanistic alignment and genetic reinforcement can still remain constrained if 
 
 Length target:
 
-≤ 280 characters
+≤ 350 characters
 
 ⸻
 
@@ -152,7 +152,7 @@ Omega topology treats confidence as layer-dependent. Support can accumulate loca
 
 Length target:
 
-1–3 short paragraphs
+≤ 350 characters
 
 ⸻
 
